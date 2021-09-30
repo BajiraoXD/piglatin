@@ -33,3 +33,5 @@ class Piglatin
               System.out.println("No vowel, hence piglatin not possible");
         }
     }
+
+#Saste Nashe
