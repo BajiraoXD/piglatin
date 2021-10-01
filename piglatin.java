@@ -35,3 +35,13 @@ class Piglatin
     }
 
 
+lines = int(input("Enter the number of lines: "))
+
+i = 1
+j = 1
+
+while j <= lines:
+    
+    print(i)
+    i += 2
+    j += 1
